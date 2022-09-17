@@ -1,0 +1,15 @@
+#header{
+  background: #161313;
+  color: rgb(238, 229, 229);
+  padding: 25px;
+  text-align: center;
+}
+#login_form{
+  padding-top: 75px;
+}
+#left_sidebar{
+  border-right: 2px solid black;
+}
+#container{
+  margin-left: 25px;
+}
